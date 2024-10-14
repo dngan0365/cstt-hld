@@ -1,0 +1,11 @@
+.center {
+    display: flex;
+    justify-content: center; /* Horizontally centers the content */
+    align-items: center; /* Vertically centers the content */
+    height: 50vh; /* Make sure the container has height, e.g., full viewport */
+    flex-direction: column; /* Stacks h1, h2 vertically */
+}
+h1 {
+    margin: 20px 0px;
+    font-size: 30px;
+}

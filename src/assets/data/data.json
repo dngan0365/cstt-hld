@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "tieu-de": "Không đội mũ bảo hiểm",
+        "noi-dung": "người điều khiển mô tô, xe máy không đội mũ bảo hiểm khi tham gia giao thông",
+        "hinh-phat-tu": "200.000",
+        "hinh-phat-den": "300.000",
+        "don-vi": "VND"
+    },
+    {
+        "id": 2,
+        "tieu-de": "Đội mũ bảo hiểm sai cách",
+        "noi-dung": "người ngồi phía sau không đội mũ bảo hiểm hoặc cài quai sai cách, không đúng quy định của pháp luật",
+        "hinh-phat-tu": "200.000",
+        "hinh-phat-den": "300.000",
+        "don-vi": "VND"
+    },
+    {
+        "id": 3,
+        "tieu-de": "Chở quá số người quy định",
+        "noi-dung": "người điều khiển xe máy chỉ được chở 01 người trên xe, nếu chở 02 người",
+        "hinh-phat-tu": "200.000",
+        "hinh-phat-den": "300.000",
+        "don-vi": "VND"
+    },
+    {
+        "id": 4,
+        "tieu-de": "Không có giấy phép lái xe dưới 175cm3",
+        "noi-dung": "người điều khiển xe dưới 175cm3 mà không có giấy phép lái xe, dùng giấy phép không do cơ quan có thẩm quyền cấp hoặc bị tẩy xóa",
+        "hinh-phat-tu": "800.000",
+        "hinh-phat-den": "1.200.000",
+        "don-vi": "VND"
+    },
+    {
+        "id": 5,
+        "tieu-de": "Không có giấy phép lái xe trên 175cm3",
+        "noi-dung": "người điều khiển mô tô, xe máy từ 175cm3 trở lên nhưng không có giấy phép lái xe, dùng giấy phép không đúng loại mà pháp luật quy định hoặc bị tẩy xóa",
+        "hinh-phat-tu": "4.000.000",
+        "hinh-phat-den": "6.000.000",
+        "don-vi": "VND"
+    },
+    {
+        "id": 6,
+        "tieu-de": "Không mang giấy phép lái xe",
+        "noi-dung": "người lái mô tô, xe máy không đem theo giấy phép lái xe",
+        "hinh-phat-tu": "100.000",
+        "hinh-phat-den": "200.000",
+        "don-vi": "VND"
+    },
+    {
+        "id": 7,
+        "tieu-de": "Không mang giấy đăng ký xe",
+        "noi-dung": "người điều khiển mô tô, xe máy không mang theo giấy đăng ký xe",
+        "hinh-phat-tu": "100.000",
+        "hinh-phat-den": "200.000",
+        "don-vi": "VND"
+    },
+    {
+        "id": 8,
+        "tieu-de": "Không có giấy đăng ký xe",
+        "noi-dung": "người điều khiển xe không có giấy đăng ký xe",
+        "hinh-phat-tu": "300.000",
+        "hinh-phat-den": "400.000",
+        "don-vi": "VND"
+    },
+    {
+        "id": 9,
+        "tieu-de": "Sử dụng giấy đăng ký xe bị tẩy xóa",
+        "noi-dung": "dùng giấy đăng ký xe bị tẩy xóa, sai số khung, số máy hoặc không đúng do cơ quan thẩm quyền cấp",
+        "hinh-phat-tu": "300.000",
+        "hinh-phat-den": "400.000",
+        "don-vi": "VND"
+    },
+    {
+        "id": 10,
+        "tieu-de": "Không có bảo hiểm TNDS",
+        "noi-dung": "người điều khiển phương tiện không có hoặc không mang giấy chứng nhận bảo hiểm TNDS của chủ xe cơ giới",
+        "hinh-phat-tu": "100.000",
+        "hinh-phat-den": "200.000",
+        "don-vi": "VND"
+    },
+    {
+        "id": 11,
+        "tieu-de": "Vượt đèn đỏ",
+        "noi-dung": "người điều khiển mô tô, xe máy vượt đèn đỏ hoặc đèn vàng khi sắp chuyển đèn đỏ",
+        "hinh-phat-tu": "600.000",
+        "hinh-phat-den": "1.000.000",
+        "don-vi": "VND"
+    },
+    {
+        "id": 12,
+        "tieu-de": "Không chấp hành biển báo",
+        "noi-dung": "người điều khiển mô tô, xe máy không chấp hành hiệu lệnh, chỉ dẫn của biển báo và vạch kẻ đường",
+        "hinh-phat-tu": "200.000",
+        "hinh-phat-den": "400.000",
+        "don-vi": "VND"
+    },
+    {
+        "id": 13,
+        "tieu-de": "Không chấp hành hiệu lệnh giao thông",
+        "noi-dung": "người điều khiển mô tô, xe máy không chấp hành hiệu lệnh và hướng dẫn của người điều khiển giao thông hoặc người kiểm soát giao thông",
+        "hinh-phat-tu": "600.000",
+        "hinh-phat-den": "1.000.000",
+        "don-vi": "VND"
+    },
+    {
+        "id": 14,
+        "tieu-de": "Điều khiển xe trên 50cm3 dưới 18 tuổi",
+        "noi-dung": "đối tượng điều khiển mô tô, xe máy từ 50cm3 trở lên trong khoảng 16 – 18 tuổi",
+        "hinh-phat-tu": "400.000",
+        "hinh-phat-den": "600.000",
+        "don-vi": "VND"
+    },
+    {
+        "id": 15,
+        "tieu-de": "Chuyển làn quên xi nhan",
+        "noi-dung": "xe máy chuyển làn đường nhưng quên xi nhan",
+        "hinh-phat-tu": "100.000",
+        "hinh-phat-den": "200.000",
+        "don-vi": "VND"
+    },
+    {
+        "id": 16,
+        "tieu-de": "Quay đầu tại nơi cấm",
+        "noi-dung": "người điều khiển mô tô, xe máy có hành vi quay đầu tại nơi cấm quay đầu xe",
+        "hinh-phat-tu": "100.000",
+        "hinh-phat-den": "200.000",
+        "don-vi": "VND"
+    },
+    {
+        "id": 17,
+        "tieu-de": "Dừng đỗ xe trên cầu",
+        "noi-dung": "người điều khiển phương tiện dừng, đỗ xe trên cầu",
+        "hinh-phat-tu": "300.000",
+        "hinh-phat-den": "400.000",
+        "don-vi": "VND"
+    },
+    {
+        "id": 18,
+        "tieu-de": "Sử dụng thiết bị khi lái xe",
+        "noi-dung": "người điều khiển phương tiện có hành vi sử dụng ô, điện thoại di động và thiết bị âm thanh",
+        "hinh-phat-tu": "600.000",
+        "hinh-phat-den": "1.000.000",
+        "don-vi": "VND"
+    },
+    {
+        "id": 19,
+        "tieu-de": "Sử dụng còi không đúng chuẩn",
+        "noi-dung": "người điều khiển phương tiện lắp đặt và sử dụng còi không đúng chuẩn kỹ thuật cho từng loại xe",
+        "hinh-phat-tu": "100.000",
+        "hinh-phat-den": "200.000",
+        "don-vi": "VND"
+    },
+    {
+        "id": 20,
+        "tieu-de": "Không có biển số",
+        "noi-dung": "người điều khiển xe không có biển số",
+        "hinh-phat-tu": "300.000",
+        "hinh-phat-den": "400.000",
+        "don-vi": "VND"
+    }
+]

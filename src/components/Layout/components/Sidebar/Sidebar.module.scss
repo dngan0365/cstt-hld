@@ -1,0 +1,18 @@
+.wrapper {
+    width: 365px;
+}
+.rule {
+    font-size: 14px;
+}
+.line {
+    position: relative;
+}
+.line::after {
+    content: '';
+    position: absolute;
+    bottom: 5px;
+    left: 10px;
+    width: 100px;
+    height: 1px;
+    background-color: rgba(22, 24, 35, 0.12);
+}
