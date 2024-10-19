@@ -1,7 +1,7 @@
 import classNames from 'classnames/bind';
 
 import styles from './Sidebar.module.scss';
-import data from '~/assets/data/data.json';
+import data from '../../../../assets/data/data.json';
 
 const cx = classNames.bind(styles);
 

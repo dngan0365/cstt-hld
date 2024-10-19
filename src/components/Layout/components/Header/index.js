@@ -3,7 +3,7 @@ import { faSquareXmark, faMagnifyingGlass, faSpinner } from '@fortawesome/free-s
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 import styles from './Header.module.scss';
-import images from '~/assets/images';
+import images from '../../../../assets/images';
 import { faCircle, faCircleXmark } from '@fortawesome/free-regular-svg-icons';
 
 const cx = classNames.bind(styles); //bind object bìn vào và trả về 1 function
