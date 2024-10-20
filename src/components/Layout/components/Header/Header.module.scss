@@ -20,7 +20,12 @@
     display: flex;
     align-items: center;
 }
-
+.text-logo {
+    margin-left: 20px;
+    h1 {
+        font-size: 30px;
+    }
+}
 .search-btn {
     width: 52px;
     height: 100%;
@@ -47,7 +52,7 @@
 }
 
 .search {
-    width: 361px;
+    width: 550px;
     height: var(--search-height);
     padding-left: 16px;
     display: flex;
@@ -79,5 +84,31 @@
     }
     &:focus-within {
         border: 1.5px solid rgba(22, 24, 35, 0.2);
+    }
+}
+
+.modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+}
+
+.modal-content {
+    text-align: center;
+}
+
+.modal button {
+    margin-top: 10px;
+    padding: 13px 28px;
+    border-radius: 4px;
+    color: #fff;
+    background-color: var(--primary);
+    &:hover {
+        opacity: 0.8;
     }
 }
