@@ -1,18 +1,56 @@
 .wrapper {
     width: 365px;
 }
-.rule {
-    font-size: 14px;
-}
+
 .line {
     position: relative;
 }
-.line::after {
-    content: '';
-    position: absolute;
-    bottom: 5px;
-    left: 10px;
-    width: 100px;
-    height: 1px;
-    background-color: rgba(22, 24, 35, 0.12);
+.rule {
+    font-size: 1.4rem;
+}
+a {
+    text-decoration: none;
+}
+.link {
+    padding-left: 10px;
+}
+.link:hover {
+    background-color: #f6f4f4ea;
+    border-radius: 5px;
+}
+.link:active {
+    color: red;
+}
+
+.rule:hover {
+    // Scrollbar appearance on hover
+    &::-webkit-scrollbar {
+        width: 12px; // Increase width on hover
+    }
+}
+.line {
+    color: initial; // default color for links
+    text-decoration: none; // remove underline if needed
+    &::after {
+        content: '';
+        position: absolute;
+        bottom: 5px;
+        left: 10px;
+        width: 100px;
+        height: 1px;
+        background-color: rgba(22, 24, 35, 0.12);
+    }
+}
+
+.line.active {
+    color: var(--primary); // color when clicked
+    &::after {
+        content: '';
+        position: absolute;
+        bottom: 5px;
+        left: 10px;
+        width: 100px;
+        height: 1px;
+        background-color: var(--primary);
+    }
 }
