@@ -18,7 +18,7 @@
     {
         "id": 3,
         "tieu-de": "Chở quá số người quy định",
-        "noi-dung": "người điều khiển xe máy chỉ được chở 01 người trên xe, nếu chở 02 người",
+        "noi-dung": "người điều khiển xe máy chở từ 02 người trở lên trên xe",
         "hinh-phat-tu": "200.000",
         "hinh-phat-den": "300.000",
         "don-vi": "VND"
